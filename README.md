@@ -17,3 +17,6 @@ The task was to update the look and feel of an app to meet Material Design speci
 
 
 # Screenshots
+ ![Application screen 1](https://github.com/josmarycarrero/XYZ-Reader/blob/master/screenshots/screen1.png)
+
+ ![Application screen 2](https://github.com/josmarycarrero/XYZ-Reader/blob/master/screenshots/screen2.png)
