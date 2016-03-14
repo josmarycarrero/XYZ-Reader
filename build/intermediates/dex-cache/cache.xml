@@ -23,6 +23,20 @@
         <dex dex="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/pre-dexed/debug/classes-c2e988ef337aa46e1e9a5f3e75aab4d963ad884e.jar" />
     </item>
     <item
+        jar="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/pre-dexed/debug/classes-4b5b460efc0befa03e67259608cbe541368ea7c7.jar" />
+    </item>
+    <item
+        jar="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/pre-dexed/debug/classes-37f08f69c7f29ea86455d082cd7f7d2e99baf06e.jar" />
+    </item>
+    <item
         jar="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -30,11 +44,32 @@
         <dex dex="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/pre-dexed/debug/classes-7064120b8d2211d5e0a442e5ace6d7f28bfa2aa9.jar" />
     </item>
     <item
+        jar="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-80f5985f31acd65412c540ff60ba9791993fa4f8.jar" />
+    </item>
+    <item
         jar="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
         <dex dex="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/pre-dexed/debug/classes-b286a6aa1bc1eb9b7a76a5c1c23953d21fc75a5c.jar" />
+    </item>
+    <item
+        jar="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/pre-dexed/debug/classes-f4ab90809a1f5e342a181e91b63e8c39cf095569.jar" />
+    </item>
+    <item
+        jar="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-b5d94e12ec282d8f79692f7fbb5e055a98d088b8.jar" />
     </item>
     <item
         jar="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
@@ -49,41 +84,6 @@
         revision="22.0.1"
         sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
         <dex dex="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/pre-dexed/debug/volley-b1c78b420ecb18cad16a130a35c1a6278de62f46.jar" />
-    </item>
-    <item
-        jar="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/pre-dexed/debug/classes-37f08f69c7f29ea86455d082cd7f7d2e99baf06e.jar" />
-    </item>
-    <item
-        jar="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
-        <dex dex="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-b5d94e12ec282d8f79692f7fbb5e055a98d088b8.jar" />
-    </item>
-    <item
-        jar="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/pre-dexed/debug/classes-4b5b460efc0befa03e67259608cbe541368ea7c7.jar" />
-    </item>
-    <item
-        jar="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1821601ddbec5ff125653097812823388700af74">
-        <dex dex="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/pre-dexed/debug/classes-f4ab90809a1f5e342a181e91b63e8c39cf095569.jar" />
-    </item>
-    <item
-        jar="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="/Users/Josmary/AndroidStudioProjects/XYZ-Reader/xyzreader/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-80f5985f31acd65412c540ff60ba9791993fa4f8.jar" />
     </item>
 
 </items>
